@@ -40,10 +40,10 @@ end
 # Creation in iTunes Connect, certificates, profiles
 lane :provision do 
   produce(
-    app_name: 'CrowdBoticsStarter',
+    app_name: 'CrowdBoticsStartere93f128b',
     language: 'English',
     app_version: '1.0',
-    sku: 'cb123',
+    sku: 'cb123e93f128b',
     team_name: 'CrowdBotics'
   )
   cert(

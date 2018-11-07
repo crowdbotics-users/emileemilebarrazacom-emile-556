@@ -12,5 +12,5 @@
 # Credential kamlesh@crowdbotics.com:********* added to keychain.
 
 
-app_identifier "com.crowdbotics.starter" # The bundle identifier of your app
+app_identifier "com.crowdbotics.e93f128b" # The bundle identifier of your app
 apple_id "kamlesh@crowdbotics.com"  # Your Apple email address
